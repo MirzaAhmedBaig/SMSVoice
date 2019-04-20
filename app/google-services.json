@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "979656004416",
+    "firebase_url": "https://student-zone-login.firebaseio.com",
+    "project_id": "student-zone-login",
+    "storage_bucket": "student-zone-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979656004416:android:19e21fbec2048087",
+        "android_client_info": {
+          "package_name": "com.example.dell.firebasephoneauthexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979656004416-9vivftrr5ndq6rv5n9oevf9s2nk91qgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.firebasephoneauthexample",
+            "certificate_hash": "21e63ebfe6086c5f001882078d45377e5b8f6724"
+          }
+        },
+        {
+          "client_id": "979656004416-0sbhcfb7g2nha9oh8ls2v9cir59cv3ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkP1eK4RVccFSsf5VgQhQlF-s2VjkS6t8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979656004416-0sbhcfb7g2nha9oh8ls2v9cir59cv3ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
